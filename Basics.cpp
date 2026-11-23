@@ -6,7 +6,7 @@
 #include <cstdlib>  // include cstdlib library for random number generation
 #include <vector>   // include vector library for dynamic arrays
 
-using namespace std; // use the standard namespace to avoid writing std constantly
+using namespace std;
 
 // -------------------------------------------------------------------------------
 // --- STRUCTURE DEFINITION AND FUNCTION DECLARATIONS ---
