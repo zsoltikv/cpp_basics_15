@@ -1,0 +1,9 @@
+Kele Ervin 23 100 153 207 360
+Nagy Lajos 41 100 150 205 355
+Szekeres Emil 35 100 150 203 353
+ 35 100 150 203 353
+Farkas Gedeon 66 100 147 203 350
+Kerekes Zsolt 24 100 145 200 345
+Kiss Ferenc 15 100 145 197 342
+Varga Kende 61 100 140 201 341
+Fekete Egon 49 100 137 195 332
